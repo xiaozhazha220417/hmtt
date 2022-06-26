@@ -5,7 +5,9 @@ import router from './router'
 import store from './store'
 // vant 组件包
 import Vant from 'vant'
-import 'vant/lib/index.css'
+// import 'vant/lib/index.css'
+// 引入vant自定义主题
+import 'vant/lib/index.less'
 // 响应式第三方包
 import 'amfe-flexible'
 // 导入字体图标
